@@ -1,0 +1,22 @@
+{
+  "name": "codepath-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apaul"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Abhishek Paul",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.69.0",
+    "yargs": "^4.2.0"
+  }
+}
