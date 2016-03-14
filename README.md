@@ -6,11 +6,11 @@ Time spent: [Write the number of hours you spend here]
 
 Completed:
 
-* [] Required: Requests to port `8000` are echoed back with the same HTTP headers and body
-* [] Required: Requests/reponses are proxied to/from the destination server
-* [] Required: The destination server is configurable via the `--host`, `--port`  or `--url` arguments
-* [] Required: The destination server is configurable via the `x-destination-url` header
-* [] Required: Client requests and respones are printed to stdout
+* [x] Required: Requests to port `8000` are echoed back with the same HTTP headers and body
+* [x] Required: Requests/reponses are proxied to/from the destination server
+* [x] Required: The destination server is configurable via the `--host`, `--port`  or `--url` arguments
+* [x] Required: The destination server is configurable via the `x-destination-url` header
+* [x] Required: Client requests and respones are printed to stdout
 
 Walkthrough Gif:
 [Add walkthrough.gif to the project root]
